@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672693626 source:c:\visual code proiecte\battleships\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
